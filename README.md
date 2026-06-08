@@ -1,16 +1,31 @@
-## Hi there 👋
+# สวัสดีครับ 👋 ผมชื่อ Jay
 
-<!--
-**BADJAY732/BADJAY732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Web Developer** สนใจงานพัฒนาเว็บแอปพลิเคชัน โดยเฉพาะฝั่ง backend และระบบเรียลไทม์
 
-Here are some ideas to get you started:
+ผมชอบสร้างของที่ใช้งานได้จริงตั้งแต่ต้นจนจบ ตั้งแต่ออกแบบโครงสร้าง เขียน API ไปจนถึงเชื่อมต่อ frontend ปัจจุบันกำลังพัฒนาทักษะด้าน full-stack อย่างต่อเนื่อง
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 ทักษะ / Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML, CSS
+
+**Backend:** Node.js, Express, Socket.io
+
+**Frontend:** Angular, Handlebars, EJS
+
+**Database:** MongoDB
+
+**Tools:** Git, GitHub, Travis CI
+
+---
+
+### 📌 ผลงานเด่น
+
+- **[exploding-pigs](https://github.com/BADJAY732/exploding-pigs-)** — เกมการ์ดบอร์ดเกมออนไลน์แบบเล่นหลายคน (โปรเจกต์จบ) พัฒนาต่อยอดจาก exploding-chicken โดยเพิ่มระบบจับเวลาผู้เล่น ระบบจัดอันดับ และระบบแชทแบบเรียลไทม์ ด้วย Node.js, Express และ Socket.io
+
+---
+
+### 📫 ติดต่อ
+
+- 📧 Email: aomzaa732@gmail.com
